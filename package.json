@@ -1,0 +1,36 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "homepage": "http://.",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "dotenv-webpack": "^7.1.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "firebase": "^9.6.4",
+    "html-webpack-plugin": "^5.5.0",
+    "node-sass": "^7.0.1"
+  },
+  "name": "csee_project",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didgmlcks99/handong_csee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didgmlcks99/handong_csee/issues"
+  },
+  "description": ""
+}
