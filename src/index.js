@@ -175,7 +175,7 @@ function nav_e(state) {
     nav_tag.appendChild(a_e("makePage", "폼 제작"));
     nav_tag.appendChild(a_e("setPage", "사용자 관리"));
     nav_tag.appendChild(a_e("eventsPage", "이벤트 관리"));
-    nav_tag.appendChild(a_e("statPage", "이벤트 현황"));
+    nav_tag.appendChild(a_e("statPage", "이벤트 가입자 현황"));
     nav_tag.appendChild(a_e("randPage", "랜던 당첨뽑기"));
     nav_tag.appendChild(a_e("adminAppliedPage", "나의 신청 현황"));
   } else {
